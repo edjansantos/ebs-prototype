@@ -1,0 +1,37 @@
+:root {
+	--main-font-color: #244B61;
+	--main-background-color: #f9fbfa;
+	--main-border-color: #eaf0f0;
+}
+
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	color: var(--main-font-color);
+	background-color: var(--main-background-color);
+	overflow-x: hidden;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.main-header {
+	height: 50px;
+	border-bottom: solid 1px var(--main-border-color);
+	background: #fff;
+}
+
+.main-header .hamburguer-menu {
+	text-align: center;
+	padding-top:15px;
+}
+
+.main-header .app-title {
+	font-size:22px;
+	display: inline-block;
+	margin: 10px auto;
+	font-weight: 700;
+	width: 100%;
+	text-align: center;
+}

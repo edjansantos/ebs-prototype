@@ -1,0 +1,15 @@
+{
+    "short_name": "Brasil Seikyo",
+    "name": "Brasil Seikyo",
+    "icons": [
+        {
+            "src": "images/icon@2x.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "",
+    "background_color": "#f9fbfa",
+    "theme_color": "#244B61",
+    "display": "minimal-ui"
+}
